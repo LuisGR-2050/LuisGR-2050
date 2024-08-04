@@ -7,8 +7,7 @@ About me:
 - 🤝 Most importantly, I value a collaborative environment with a well-knit team working towards a shared goal.
 
 Qualifications:
-- 📈 I acquired my Professional Data Analyst certification in July 2024 through a Google Data Analytics course.
-  - [Link to Certification](https://coursera.org/share/729fd40f175d692be2cf6e9da5590544)
+- 📈 I acquired my [Professional Data Analyst certification](https://coursera.org/share/729fd40f175d692be2cf6e9da5590544) in July 2024 through a Google Data Analytics course.
 - 🎓 I graduated from the University of Arizona in 2018 with a B.S. in Biosystems Engineering.
 
 Additional info:
