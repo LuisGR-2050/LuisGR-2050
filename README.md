@@ -1,6 +1,6 @@
 About me:
 - 👋 Hi, I’m Luis Garcia-Ramirez
-- 🧑‍💻 I am a junior data analyst with 3 years of experience building customized database and data collection solutions.
+- 🧑‍💻 I am a certified junior data analyst with 3 years of experience building customized database and data collection solutions.
 - 💪 My greatest strength is my eye for detail.
 - ⚡️ I have a talent for finding niche, out-of-the-box solutions and implementing new workflows without disruption to production.
 - 😍 I am passionate about learning the ins and outs of all the tools in my toolbox and finding the optimal solution for unique problems.
